@@ -1,6 +1,6 @@
 {
   "name": "shitty-user",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This package will wrap any string you give it with the poop emoji",
   "main": "index.js",
   "scripts": {
