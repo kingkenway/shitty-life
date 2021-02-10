@@ -1,12 +1,17 @@
 {
-  "name": "wrap-with-poo",
+  "name": "shitty-user",
   "version": "1.0.0",
-  "description": "",
+  "description": "This package will wrap any string you give it with the poop emoji",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "node",
+    "npm",
+    "poop"
+  ],
+  "author": "King Kenway",
+  "license": "MIT",
+  "homepage": "https://github.com/kingkenway/shitty-user"
 }
